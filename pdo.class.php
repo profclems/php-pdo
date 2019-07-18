@@ -1,6 +1,9 @@
 <?php  
 /**
- * 
+ * @author           Clement <clementsam75@gmail.com>
+ * @copyright        (c) 2019, Clement Sam. All Rights Reserved.
+ * @license          MIT License <http://www.opensource.org/licenses/mit-license.php>
+ * @link             http://github.com/profclems/
  */
 class DB
 {
