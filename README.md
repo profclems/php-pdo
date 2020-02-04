@@ -1,4 +1,4 @@
-# php-pdo
+# PHP PDO MySQL Class
 PHP PDO MySQL Class: Access MySQL databases using PDOCustom PHP PDO Class
 
 This class is a wrapper to access MySQL databases using PDO.
